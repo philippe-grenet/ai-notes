@@ -1,0 +1,3 @@
+# AI Notes
+
+Personal notes.
